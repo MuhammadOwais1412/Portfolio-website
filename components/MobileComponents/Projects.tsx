@@ -3,8 +3,8 @@ import Link from 'next/link'
 import React from 'react'
 
 const MobileProjects = () => {
-  let project = [
-    
+  const project = [
+
     {
       name: "Cli Number Guessing Game",
       image: "new.png",

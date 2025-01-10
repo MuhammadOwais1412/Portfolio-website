@@ -5,7 +5,7 @@ import Link from 'next/link'
 
 const Projects = () => {
   // My Projects here
-  let project = [
+  const project = [
     {
       name: "Cli Number Guessing Game",
       image: "new.png",
